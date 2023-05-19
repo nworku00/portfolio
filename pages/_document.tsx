@@ -5,7 +5,7 @@ import About from './components/About'
 import Projects from './components/Projects'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
-
+import Skills from './components/Skills'
 export default function Document() {
   return (
     <Html lang="en" className='scroll-smooth'>
@@ -16,7 +16,8 @@ export default function Document() {
         <Header />
         <Hero />
         <About />
-        <Projects />
+              <Projects />
+              <Skills />
         <Contact />
         <Footer />
       </body>

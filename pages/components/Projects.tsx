@@ -7,11 +7,11 @@ const Projects = () => {
     return (
         <div
             id={projects.title}
-            className="px-8 md:px-16 md:px-32 pb-16 bg-gradient-to-r from-orange-300 to-red-400">
+            className="px-8 md:px-32 pb-16 bg-gradient-to-r from-orange-300 to-red-400">
             <h1 className="pt-12 uppercase font-bold text-center text-orange-100 text-bold text-4xl">
                 {projects.title}
             </h1>
-            <div className="projects__menu text-red-900">
+            <div className="ml-16 projects__menu text-red-900">
                 <ul>
                     {projects.projects.map((item) => (
                         <li key={item.title} className="flex flex-col lg:flex-row mt-12">

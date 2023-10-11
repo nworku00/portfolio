@@ -29,7 +29,7 @@
             {
                 "title": "Netflix and Grill",
                 "description": "I was part of a four person team developing a dynamic date night generator app. This web application utilizes CSS, HTML, and JavaScript to offer a date planning experience. The app integrates a movie database API and a recipe API, allowing users to select a genre of movie and a style of food. In response, the app generates three corresponding movie recommendations and recipes to cook. I was the repository manager, responsible for finding the API's and integrating the recipe API into the front end. I also helped integrate the movie API.",
-                "url": "https://nworku00.github.io/netflix-and-grill/",
+                "url": "https://net-grill.onrender.com/",
                 "github": "https://github.com/nworku00/netflix-and-grill",
                 "image": "/NetflixScreenshot.png"
             },
@@ -46,6 +46,13 @@
                 "url": "https://nworku00.github.io/solo-react/",
                 "github": "https://github.com/nworku00/solo-react",
                 "image": "/PlayScreenshot.png"
+            },
+            {
+                "title": "Senior Social",
+                "description": "This is a full stack React app. This app is a simple social media site/message board. Users are able to log in and sign up, using JWT authentication. Users are able to write posts, like posts, and change to light or dark mode. You are also able to filter and see all posts, your own posts, or just your liked posts.",
+                "url": "https://senior-social-front-7eg1.onrender.com/",
+                "github": "https://github.com/nworku00/SeniorSocial-FrontEnd#seniorsocial-frontend",
+                "image": "/SeniorScreen.png"
             }
         ]
     },

@@ -53,6 +53,12 @@
                 "url": "https://senior-social-front-7eg1.onrender.com/",
                 "github": "https://github.com/nworku00/SeniorSocial-FrontEnd#seniorsocial-frontend",
                 "image": "/SeniorScreen.png"
+            },
+            {
+                "title": "Python Typing Game",
+                "description": "A simple typing game I worked on as part of my self study of Python. This game is made using the Pygame library. The user has to type out sentances with proper capitalization and punctuation. Your time and accuracy is counted and your total time and accuracy score is given at submission of the sentence.",
+                "github": "https://github.com/nworku00/python_typing_game",
+                "image": "/pytype.png"
             }
         ]
     },

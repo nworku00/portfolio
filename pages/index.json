@@ -27,6 +27,12 @@
         "title": "Projects",
         "projects": [
             {
+                "title": "AMP Memberships",
+                "description": "I developed a comprehensive car wash membership application, including a CSR portal designed for use by car wash employees and managers, as well as a robust backend and database system for managing both users and employees. The app allows for full customization, enabling car wash staff to dynamically control various aspects of the service. The portal also provides valuable analytics, allowing employees to track metrics such as new and current users, sales, discounts, and promotional campaigns, with integration services for legacy systems to ease the transition process.",
+                "url": "https://ampmemberships.com/",
+                "image": "/ampscreenshot.png"
+            },
+            {
                 "title": "Netflix and Grill",
                 "description": "I was part of a four person team developing a dynamic date night generator app. This web application utilizes CSS, HTML, and JavaScript to offer a date planning experience. The app integrates a movie database API and a recipe API, allowing users to select a genre of movie and a style of food. In response, the app generates three corresponding movie recommendations and recipes to cook. I was the repository manager, responsible for finding the API's and integrating the recipe API into the front end. I also helped integrate the movie API.",
                 "url": "https://net-grill.onrender.com/",
@@ -39,20 +45,6 @@
                 "url": "https://clean-and-green.onrender.com/",
                 "github": "https://github.com/nworku00/clean-and-green",
                 "image": "/CleanScreenshot.png"
-            },
-            {
-                "title": "The Play List",
-                "description": "This was a solo project built entirely in React. This web app uses a video game API to generate video games based on a user search. The page returns the game's key art, title, genres, and Metacritic rating. You are able to search by title, genre, and game system. You are then able to add games to a 'play list' or to a 'completed list' and also give the game a personal rating.",
-                "url": "https://nworku00.github.io/solo-react/",
-                "github": "https://github.com/nworku00/solo-react",
-                "image": "/PlayScreenshot.png"
-            },
-            {
-                "title": "Senior Social",
-                "description": "This is a full stack React app. This app is a simple social media site/message board. Users are able to log in and sign up, using JWT authentication. Users are able to write posts, like posts, and change to light or dark mode. You are also able to filter and see all posts, your own posts, or just your liked posts.",
-                "url": "https://senior-social-front-7eg1.onrender.com/",
-                "github": "https://github.com/nworku00/SeniorSocial-FrontEnd#seniorsocial-frontend",
-                "image": "/SeniorScreen.png"
             },
             {
                 "title": "Python Typing Game",

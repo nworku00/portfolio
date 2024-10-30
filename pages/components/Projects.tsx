@@ -25,7 +25,7 @@ const Projects = () => {
                                         <a href={item.url} target="_blank" rel="noreferrer">
                                             <div className="bg-orange-200">
                                                 <span className="block py-0.5 px-2 bg-white  bg-gradient-to-l from-orange-400 to-red-500 bg-clip-text text-transparent">
-                                                    Live Demo
+                                                    Website
                                                 </span>
                                             </div>
                                         </a>
@@ -33,6 +33,8 @@ const Projects = () => {
                                             :
                                             null
                                     }
+                                    {
+                                        item.github ?
                                     <div className="text-md text-center font-semibold p-0.5 ml-2 bg-gradient-to-l from-orange-400 to-red-500">
                                         <a href={item.github} target="_blank" rel="noreferrer">
                                             <div className="bg-orange-200">
@@ -41,7 +43,10 @@ const Projects = () => {
                                                 </span>
                                             </div>
                                         </a>
-                                    </div>
+                                            </div>
+                                            :
+                                            null
+                                    }
                                 </div>
                                 
                             </div>
